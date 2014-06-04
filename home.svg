@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2993"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="home.svg"
+   inkscape:export-filename="/home/jishnu/git/hamburger/icon.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <title
+     id="title3766">Home button</title>
+  <defs
+     id="defs2995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="72.972526"
+     inkscape:cy="64.09929"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1317"
+     inkscape:window-height="788"
+     inkscape:window-x="0"
+     inkscape:window-y="290"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata2998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Home button</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jishnu Mohan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,52)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3845"
+       d="m 50.000003,21.678724 -44.6715389,0 0,-15.5835007 0,-15.5834842 22.3309469,-8.0952271 22.330946,-8.095236 22.340592,8.152812 22.340587,8.1528124 0,15.5259079 0,15.5259157 -44.671533,0 z M 50.352701,16.516431 89.294409,16.301594 89.52503,5.8751829 89.755659,-4.5512038 88.69778,-5.3639939 C 88.115949,-5.8110234 79.167705,-9.2069628 68.812792,-12.910522 l -18.827125,-6.733748 -18.812782,6.747976 c -10.347037,3.7113855 -19.278118,7.0984317 -19.846853,7.526766 l -1.034064,0.7787983 0,10.1014673 0,10.1014264 0.559511,0.559552 0.559504,0.559469 38.941718,-0.214754 z"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+</svg>
