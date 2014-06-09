@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2993"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="back.svg"
+   inkscape:export-filename="/home/jishnu/git/hamburger/icon.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <title
+     id="title3830">Back arrow</title>
+  <defs
+     id="defs2995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="53.212564"
+     inkscape:cy="48.418622"
+     inkscape:current-layer="g3828"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1317"
+     inkscape:window-height="788"
+     inkscape:window-x="0"
+     inkscape:window-y="290"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata2998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Back arrow</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jishnu Mohan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,52)">
+    <g
+       transform="matrix(0.08797631,0,0,0.08797631,-639.52832,-132.27078)"
+       id="g3828"
+       inkscape:export-filename="/home/jishnu/hashcube/game/bubble-quest-client/resources/images/puzzlescreen/bubble_eight_way.png"
+       inkscape:export-xdpi="6.0114503"
+       inkscape:export-ydpi="6.0114503">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 7837.659,969.48976 c -282.4151,0 -511.5013,229.08614 -511.5013,511.50114 0,282.4153 229.0862,511.0161 511.5013,511.0161 282.4152,0 511.5014,-228.6008 511.5014,-511.0161 0,-282.415 -229.0862,-511.50114 -511.5014,-511.50114 z m 0,75.22064 123.7503,123.7504 c -38.2924,-15.1698 -80.0597,-23.7795 -123.7503,-23.7795 -43.6908,0 -85.458,8.6097 -123.7503,23.7795 l 123.7503,-123.7504 z m -308.1625,127.6326 174.7063,0 c -78.1423,33.7973 -140.691,96.1956 -174.7063,174.2212 l 0,-174.2212 z m 441.6188,0 174.7063,0 0,174.2212 c -34.0156,-78.0256 -96.5642,-140.4239 -174.7063,-174.2212 z m -445.5012,184.4125 c -15.2956,38.4288 -23.7795,80.3545 -23.7795,124.2354 0,43.9734 8.4228,85.7407 23.7795,124.2357 l -124.2356,-124.2357 124.2356,-124.2354 z m 624.5751,0.4852 123.7503,123.7502 -123.7503,123.7504 c 15.2257,-38.3533 23.7793,-79.9746 23.7793,-123.7504 0,-43.6907 -8.6095,-85.4578 -23.7793,-123.7502 z m -620.6927,257.6918 c 33.9328,77.8361 96.343,140.3665 174.2211,174.221 l -174.2211,0 0,-174.221 z m 616.3251,0 0,174.221 -174.2211,0 c 77.8779,-33.8545 140.2883,-96.3849 174.2211,-174.221 z m -431.4276,178.5887 c 38.1577,15.0463 79.7613,23.2941 123.265,23.2941 43.5035,0 85.1072,-8.2478 123.2651,-23.2941 l -123.2651,123.265 -123.265,-123.265 z"
+         id="path3779"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
