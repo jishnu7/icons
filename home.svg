@@ -13,7 +13,7 @@
    height="100"
    id="svg2993"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="home.svg"
    inkscape:export-filename="/home/jishnu/git/hamburger/icon.png"
    inkscape:export-xdpi="57.599998"
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9993446"
-     inkscape:cx="37.388503"
-     inkscape:cy="16.885595"
+     inkscape:zoom="4"
+     inkscape:cx="18.351354"
+     inkscape:cy="35.760132"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -83,8 +83,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path3845"
-       d="M 10,19.200002 10,-8.8000003 49.991369,-23.200002 C 63.327581,-18.333183 76.663792,-13.666821 90,-8.8000003 l 0,28.0000023 z m 75.200006,-4.8 0,-18.4000023 L 49.987169,-16.800001 14.8,-4.0000003 l 0,18.4000023 z"
-       style="fill:#000000;fill-opacity:1"
+       d="M 5,21.850003 5,-9.6500006 49.990291,-25.850003 C 64.993531,-20.374831 79.996768,-15.125174 95,-9.6500006 l 0,31.5000036 z m 84.60001,-5.4 0,-22.6089006 L 49.985566,-20.100851 10.4,-6.1588976 l 0,22.6089006 z"
+       style="opacity:1;fill:#000000;fill-opacity:1"
        sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>
