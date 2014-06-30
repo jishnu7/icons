@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2993"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="camera.svg"
+   inkscape:export-filename="/home/jishnu/git/hamburger/icon.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <title
+     id="title3759">Camera icon</title>
+  <defs
+     id="defs2995" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="27.722526"
+     inkscape:cy="64.09929"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1317"
+     inkscape:window-height="788"
+     inkscape:window-x="527"
+     inkscape:window-y="156"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata2998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Camera icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jishnu Mohan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:date>30 June 2014</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,52)">
+    <path
+       style="fill:#000000"
+       d="m 36.190625,-40.868725 -9.61875,9.73125 -15.215625,0 c -3.525633,0 -6.35625,2.83062 -6.35625,6.35625 l 0,55.29365 c 0,3.5257 2.830617,6.3563 6.35625,6.3563 l 77.2875,0 c 3.52563,0 6.35625,-2.8306 6.35625,-6.3563 l 0,-55.29365 c 0,-3.52563 -2.83062,-6.35625 -6.35625,-6.35625 l -15.21563,0 -9.61874,-9.73125 -27.618755,0 z M 50,-19.634345 c 12.42704,0 22.5,10.07298 22.5,22.49987 0,12.427 -10.07296,22.5 -22.5,22.5 -12.427038,0 -22.5,-10.073 -22.5,-22.5 0,-12.42689 10.072962,-22.49987 22.5,-22.49987 z m 0,7.95937 c -8.033643,0 -14.540625,6.50691 -14.540625,14.5405 0,8.0337 6.506982,14.5407 14.540625,14.5407 8.03364,0 14.54063,-6.507 14.54063,-14.5407 0,-8.03359 -6.50699,-14.5405 -14.54063,-14.5405 z"
+       id="camera"
+       inkscape:connector-curvature="0"
+       inkscape:label="#icon" />
+  </g>
+</svg>
